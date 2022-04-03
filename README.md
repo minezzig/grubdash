@@ -1,6 +1,6 @@
 #grubdash
 
-A back-end project that focuses on building APIs with complex validation. 
+A back-end Express and node.js project that focuses on building APIs with complex validation. 
 
 **Learning objectives included:**
 - Running tests from the command line
